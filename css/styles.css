@@ -4,6 +4,7 @@ body{
 
 a:link, a:visited {
     background-color: #f2f2f2;
+    color: black;
     padding: 10px 20px;
     text-align: center;
     text-decoration: none;
@@ -17,7 +18,7 @@ a:hover, a:active {
 }
 
 ol {
-    background: #4CAF50;
+    background: #2E8B57;
     padding: 20px;
 }
 ol li {
@@ -27,7 +28,7 @@ ol li {
 }
 
 ul {
-    background: #4CAF50;
+    background: #CFCFCF;
     padding: 20px;
 }
 ul li {
@@ -50,6 +51,6 @@ ul li {
     padding-top: 12px;
     padding-bottom: 12px;
     text-align: left;
-    background-color: #4CAF50;
+    background-color: #2E8B57;
     color: white;
 }
