@@ -11,8 +11,8 @@ function minhaFuncao2(){
 	var alunos = ['Aluno 01', 'Aluno 02', 'Aluno 03', 'Aluno 04', 'Aluno 05'];	
 
 	$.each(alunos, function(index, value){
-		$('#area-02')append(value);
-		$('#area-02')append(' --> ');
+		$('#area-02').append(value);
+		$('#area-02').append(' --> ');
 	});
 };
 
@@ -21,23 +21,23 @@ function minhaFuncao3(){
 	var alunos = [
 		{
 			nome:'Aluno 01',
-			idade;'11'
+			idade:'11'
 		},
 		{
 			nome:'Aluno 02',
-			idade;'22'
+			idade:'22'
 		},
 		{
 			nome:'Aluno 03',
-			idade;'33'
+			idade:'33'
 		},
 		{
 			nome:'Aluno 04',
-			idade;'44'
+			idade:'44'
 		},
 		{
 			nome:'Aluno 05',
-			idade;'55'
+			idade:'55'
 		}
 	]
 
